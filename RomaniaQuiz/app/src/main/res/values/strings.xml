@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Romania Quiz</string>
+    <string name="title">Test your knowledge on Romania</string>
+    <string name="question1">1. In which continent is Romania situated?</string>
+    <string name="question2">2. Which is the capital of Romania?</string>
+    <string name="question2_answer1">Budapest</string>
+    <string name="question2_answer2">Bucharest</string>
+    <string name="question2_answer3">Sofia</string>
+    <string name="question3">3. What kind of resorts can you visit in Romania?</string>
+    <string name="question3_answer1">Seaside resorts</string>
+    <string name="question3_answer2">Ski resorts</string>
+    <string name="question3_answer3">Thermal baths</string>
+    <string name="question4">4. Which is the form of government?</string>
+    <string name="question4_answer1">Monarchy</string>
+    <string name="question4_answer2">Anarchy</string>
+    <string name="question4_answer3">Republic</string>
+    <string name="question5">5. Which of the following cities can be found in Romania?</string>
+    <string name="question5_answer1">Timisoara</string>
+    <string name="question5_answer2">Debrecen</string>
+    <string name="question5_answer3">Iasi</string>
+    <string name="question5_answer4">Chisinau</string>
+    <string name="question5_answer5">Constanta</string>
+    <string name="question5_answer6">Varna</string>
+    <string name="question6">6. Nadia Comaneci was a Romanian tennis player:</string>
+    <string name="question6_answer1">True</string>
+    <string name="question6_answer2">False</string>
+    <string name="question7">7. Which is the local currency?</string>
+    <string name="question7_answer1">Euro</string>
+    <string name="question7_answer2">Leu</string>
+    <string name="question7_answer3">Leva</string>
+    <string name="question7_answer4">Ruble</string>
+    <string name="question8">8. What is Romania\'s region, Transylvania, best known fictional character?</string>
+    <string name="input_answer">Type your answer here</string>
+    <string name="result_button">Get result</string>
+</resources>
