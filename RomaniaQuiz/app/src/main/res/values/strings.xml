@@ -32,6 +32,4 @@
     <string name="question8">8. What is Romania\'s region, Transylvania, best known fictional character?</string>
     <string name="input_answer">Type your answer here</string>
     <string name="result_button">Get result</string>
-    <string name="you_scored">You scored </string>
-    <string name="total_questions"> out of 8 questions.</string>
 </resources>
